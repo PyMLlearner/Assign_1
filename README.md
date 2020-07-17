@@ -10,10 +10,11 @@ This is a very simple example of using two scipy tools for linear regression.
 - Analytic solution using Moore-Penrose generalized inverse or simple
 - multiplicative matrix inverse
 - sklearn.linear_model.LinearRegression
+- Conclusion
 
 ### File:
 
-- #### Intership_Assignment_01:
+- #### Intership_Assignment_01.ipynb:
 This is our main file where we will be performing our work in the project.(Colab)
 
 ### This Project uses the following Software and Python Libraries:
